@@ -1,0 +1,14 @@
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.RazorAssemblyInfo.cache
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.RazorAssemblyInfo.cs
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.AssemblyInfoInputs.cache
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.AssemblyInfo.cs
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\bin\Debug\netcoreapp2.1\NorthwindAPIProject.deps.json
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\bin\Debug\netcoreapp2.1\NorthwindAPIProject.runtimeconfig.json
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\bin\Debug\netcoreapp2.1\NorthwindAPIProject.runtimeconfig.dev.json
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\bin\Debug\netcoreapp2.1\NorthwindAPIProject.dll
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\bin\Debug\netcoreapp2.1\NorthwindAPIProject.pdb
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.dll
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.pdb
+C:\Users\vmatos\source\repos\NorthwindAPIProject\NorthwindAPIProject\obj\Debug\netcoreapp2.1\NorthwindAPIProject.csprojAssemblyReference.cache
